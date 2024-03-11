@@ -15,5 +15,5 @@ Additional technologies needed by every software developer are studied, such as 
 
 <h1>Certificate and Course Cirriculum</h1>
 <p align="center">
-  <img src="C:\Users\PC\Downloads" width="350" title="hover text">
+  <img src="C:\Users\PC\Downloads\Programming Basics - September 2022 - Certificate (1).jpeg" width="350" title="hover text">
 </p>
