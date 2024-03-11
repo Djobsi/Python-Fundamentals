@@ -7,14 +7,9 @@ Additional technologies needed by every software developer are studied, such as 
 <hr>
 <h1>Acquired skills</h1>
 <hr>
-<li>
-  <a>Handling the standard functionality of the programming language</a><br>
-<li>
-  Problem analysis and reduction to computer-executable steps<br>
-</li>
-  <a>Working with linear data structures</a><br>
-<li>
-  <a>Basic HTML and CSS skills</a><br>
-</li>
-  <a>>Understanding the interrelationship between different IT concepts</a>
-</li>
+<li>Handling the standard functionality of the programming language</li><br>
+<li>Problem analysis and reduction to computer-executable steps</li><br>
+<li>Working with linear data structures</li><br>
+<li>Basic HTML and CSS skills</li><br>
+<li>Understanding the interrelationship between different IT concepts</li>
+
