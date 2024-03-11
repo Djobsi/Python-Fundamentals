@@ -14,4 +14,6 @@ Additional technologies needed by every software developer are studied, such as 
 <li>Understanding the interrelationship between different IT concepts</li><br>
 
 <h1>Certificate and Course Cirriculum</h1>
-![Programming Basics - September 2022 - Certificate (1)](https://github.com/Djobsi/Python-Fundamentals/assets/122883325/391b2064-724d-4144-87ba-16eee22f6b5a)
+<p align="center">
+  <img src="C:\Users\PC\Downloads" width="350" title="hover text">
+</p>
