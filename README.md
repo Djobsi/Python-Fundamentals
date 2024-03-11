@@ -13,6 +13,8 @@ Additional technologies needed by every software developer are studied, such as 
   Problem analysis and reduction to computer-executable steps<br>
 </li>
   <a>Working with linear data structures</a><br>
+<li>
   <a>Basic HTML and CSS skills</a><br>
+</li>
   <a>>Understanding the interrelationship between different IT concepts</a>
 </li>
