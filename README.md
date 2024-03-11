@@ -1,6 +1,16 @@
 # Python-Fundamentals
 <h1>Course details</h1>
 <hr>
-С "Programming Fundamentals" студентите започват да изучават вътрешната програма на SoftUni за цялостна подготовка на софтуерни инженери. Курсът разглежда фундаментални концепции в програмирането, които са основа за ефективното и качествено обучение в професионалните модули. Обучаващите се надграждат знанията, придобити в курса Programming Basics и започват да използват по-сложни похвати и структури от програмирането като: листове, речници, обекти и класове.
+With "Programming Fundamentals", students begin to study SoftUni's in-house program for the comprehensive training of software engineers. The course examines fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Learners build on the knowledge gained in the Programming Basics course and begin to use more complex programming concepts and structures such as: sheets, dictionaries, objects and classes.
 
-Изучават се допълнителни технологии, необходими на всеки един софтуерен разработчик, като HTML и CSS, HTTP, побитови операции и други. Разглеждат се основите на web разработката, както и едни от най-разпространените технологии и инструменти, с което курсът успешно изгражда представа у студентите относно предстоящите професионални модули и знанията, които ще придобият от тях, за да станат
+Additional technologies needed by every software developer are studied, such as HTML and CSS, HTTP, bitwise operations, and more. The basics of web development are covered, as well as some of the most common technologies and tools, with which the course successfully builds an idea among students about the upcoming professional modules and the knowledge they will gain from them to become successful software developers.
+<hr>
+<h1>Acquired skills</h1>
+<hr>
+<li>
+  <a>Handling the standard functionality of the programming language</a>
+Problem analysis and reduction to computer-executable steps
+Working with linear data structures
+Basic HTML and CSS skills
+Understanding the interrelationship between different IT concepts
+</li>
